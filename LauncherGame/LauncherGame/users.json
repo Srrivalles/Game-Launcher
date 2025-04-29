@@ -1,0 +1,18 @@
+[
+    {
+        "country": "Brasil",
+        "password": "matt1234",
+        "nickname": "Matt",
+        "fullName": "matt matt matt",
+        "birthDate": "21022002",
+        "email": "matt@gmail.com"
+    },
+    {
+        "country": "Brasil",
+        "password": "luan1234",
+        "nickname": "Luan",
+        "fullName": "luan luan",
+        "birthDate": "21022002",
+        "email": "luan@gmail.com"
+    }
+]
